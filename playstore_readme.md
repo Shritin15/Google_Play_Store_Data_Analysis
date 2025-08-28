@@ -110,7 +110,7 @@ The dashboard provides:
 - Visual correlation analysis between key metrics
 - Sentiment distribution visualizations
 
-## Skills 
+## Technology 
 
 ### Programming & Analysis
 - **Python**: Advanced data manipulation and analysis
