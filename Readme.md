@@ -1,6 +1,7 @@
 Google Play Store App Analytics Project
 
 Project Overview
+
 o This project is an end-to-end data analysis case study focused on the Google Play Store mobile app market. The goal is to provide a comprehensive analysis of user behaviour, app ratings, and market trends to deliver actionable business insights. This project showcases proficiency in data cleaning, exploratory data analysis, advanced statistical analysis, and data visualization.
 
  Key Questions & Findings
@@ -23,6 +24,7 @@ o Does user sentiment in reviews impact an app's rating?
  A sentiment analysis on user reviews showed a strong positive correlation between the positivity of reviews and an app's average rating.
 
  Actionable Recommendations
+
 o Monetization Strategy:
 
  The analysis of ratings for paid vs. free apps suggests that users are more satisfied with paid products. It is recommended to explore premium, paid versions for high-performing free apps to potentially increase user satisfaction and revenue.
@@ -42,6 +44,7 @@ o Statistical Analysis: Conducted a formal hypothesis test to validate findings.
 o Data Visualization: Created a comprehensive and interactive dashboard using Tableau to present key findings.
 
  Project Files 
+
 o Google_Play_Store_Analysis.ipynb: The main Jupyter Notebook containing all the Python code for data cleaning and analysis. 
 
 o final_dataset.csv: The final cleaned and processed dataset used for visualization. 
@@ -53,6 +56,7 @@ o googleplaystore_user_reviews.csv: The original dataset of app reviews.
  Live Dashboard
 o View the Live Dashboard on Tableau Public:
 https://public.tableau.com/app/profile/shritin.shetty/viz/GooglePlayStoreAppAnalytics_17563512386840/Dashboard2?publish=yes
+
 
 
 
