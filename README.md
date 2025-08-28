@@ -4,7 +4,6 @@ Google Play Store App Analytics Project
 o	This project is an end-to-end data analysis case study focused on the Google Play Store mobile app market. The goal is to provide a comprehensive analysis of user behaviour, app ratings, and market trends to deliver actionable business insights. This project showcases proficiency in data cleaning, exploratory data analysis, advanced statistical analysis, and data visualization.
 
 	Key Questions & Findings
-o	Key Questions & Findings 
 o	What are the most saturated app categories?
 	The analysis shows that the 'FAMILY' and 'GAME' categories are the most populated, indicating a highly competitive market. 
 o	Is there a correlation between an app's rating and its number of installs?
