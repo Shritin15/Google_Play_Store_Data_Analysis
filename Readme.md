@@ -5,6 +5,7 @@ o This project is an end-to-end data analysis case study focused on the Google P
 
  Key Questions & Findings
 o Key Questions & Findings 
+
 o What are the most saturated app categories?
  The analysis shows that the 'FAMILY' and 'GAME' categories are the most populated, indicating a highly competitive market.
  
@@ -42,6 +43,7 @@ o googleplaystore_user_reviews.csv: The original dataset of app reviews.
  Live Dashboard
 o View the Live Dashboard on Tableau Public:
 https://public.tableau.com/app/profile/shritin.shetty/viz/GooglePlayStoreAppAnalytics_17563512386840/Dashboard2?publish=yes
+
 
 
 
