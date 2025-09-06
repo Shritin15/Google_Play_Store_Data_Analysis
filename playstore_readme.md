@@ -2,17 +2,6 @@
 
 An end-to-end data analysis case study focused on the Google Play Store mobile app market, providing comprehensive insights into user behavior, app ratings, and market trends to deliver actionable business recommendations.
 
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Key Research Questions](#key-research-questions)
-- [Findings & Insights](#findings--insights)
-- [Actionable Recommendations](#actionable-recommendations)
-- [Technical Implementation](#technical-implementation)
-- [Project Files](#project-files)
-- [Live Dashboard](#live-dashboard)
-- [Skills](#skills)
-- [Usage](#usage)
-
 ## Project Overview
 
 This project represents a case study analyzing the Google Play Store ecosystem. The analysis combines statistical testing, exploratory data analysis, sentiment analysis, and interactive visualization to uncover meaningful patterns in mobile app market dynamics.
@@ -148,4 +137,3 @@ The dashboard provides:
 - No Tableau installation required for viewing
 - Interactive filtering and exploration available
 --- 
-**Project**: Google Play Store Data Analysis
